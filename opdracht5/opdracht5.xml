@@ -1,0 +1,10 @@
+<xml version="1.0" encoding="UTF-8"?>
+<college naam="MBO College Zuidoost">
+<lokaal naam="247">
+<weekdag naam="Maandag">
+<uur>
+<start>13:45</start>
+<eind>16:45</eind>
+<vak>Database</vak>
+</uur>
+    </college>  
